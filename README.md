@@ -1,23 +1,16 @@
 # The-Baratie
-This is an anime themed online food ordering application using only java.
-<br>
-Where as a CUSTOMER one can,
-<br>
-1. Sign up and Login, Change Password,
-<br>
- 2. Leave Feedback and view Reviews,
-<br>
- 3. Browse Menu,
-<br>
- 4. Place Order.
-<br>
-<br>
- And as ADMIN one can,
-<br>
- 1. Login, Change Password,
-<br>
- 2. Update Menu,
-<br>
- 3. View Order,
-<br>
- 4. View Reviews
+
+This is an anime-themed online food ordering application using only Java.
+
+### As a CUSTOMER, one can:
+1. Sign up and login, change password  
+2. Leave feedback and view reviews  
+3. Browse menu  
+4. Place order  
+
+### As an ADMIN, one can:
+1. Login, change password  
+2. Update menu  
+3. View orders  
+4. View reviews
+
