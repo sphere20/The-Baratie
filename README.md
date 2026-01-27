@@ -5,19 +5,19 @@ Where as a CUSTOMER one can,
 <br>
 1. Sign up and Login, Change Password,
 <br>
-2. Leave Feedback and view Reviews,
+ 2. Leave Feedback and view Reviews,
 <br>
-3. Browse Menu,
+ 3. Browse Menu,
 <br>
-4. Place Order.
+ 4. Place Order.
 <br>
 <br>
-And as ADMIN one can,
+ And as ADMIN one can,
 <br>
-1. Login, Change Password,
+ 1. Login, Change Password,
 <br>
-2. Update Menu,
+ 2. Update Menu,
 <br>
-3. View Order,
+ 3. View Order,
 <br>
-4. View Reviews
+ 4. View Reviews
