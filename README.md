@@ -14,3 +14,7 @@ This is an anime-themed online food ordering application using only Java.
 3. View orders  
 4. View reviews
 
+
+
+https://github.com/user-attachments/assets/c8bef250-d231-491b-b706-506687d0dc64
+
